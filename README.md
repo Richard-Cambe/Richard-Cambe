@@ -15,7 +15,9 @@
   ⚡ Fun fact **Dungeons&Dragons players aren't as weird as you may think**
   
 </div>
+<br/>
 
+<h2 align="center"> Contact Me </h2>
 <div align="center">
 <a href="mailto:richard.cambe@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -25,10 +27,9 @@
 </a>
 </div>
 
-<hr/>
+<br/>
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,bootstrap,figma"> </a><br>
