@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  🚀 I’m currently working on **a $\color{purple}{\textsf{Twitch Extension}}$**
+  🚀 I’m currently working on **a Twitch Extension**
   
   🦊 I’m currently learning **Kotlin & Cobol**
 
