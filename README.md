@@ -2,15 +2,16 @@
 
 <br/>
 
-<h3 align="center"> A passionate Fullstack Developper from France 🇫🇷</h3>
+<h3 align="center"> A passionate Fullstack Developper from France</h3>
+
 
 <br/>
 
 <div align="center">
   
-  🚀 I’m currently working on **a Twitch Extension**
+  🚀 I’m currently working on **a $\color{purple}{\textbf{Twitch Extension}}$**
   
-  🦊 I’m currently learning **Kotlin, Java & Cobol**
+  🦊 I’m currently learning **Kotlin & Cobol**
 
   ⚡ Fun fact **Dungeons&Dragons players aren't as weird as you may think**
   
