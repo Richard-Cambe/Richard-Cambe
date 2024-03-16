@@ -39,7 +39,7 @@
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard-Cambe&bg_color=1e3666&color=9e934c&line=f07400&point=ff9500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard-Cambe&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
