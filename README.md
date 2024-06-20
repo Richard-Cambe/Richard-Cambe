@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  🚀 I’m currently working on **a TTRPG website**
+  🚀 I’m currently working on **a TTRPG App**
   
   🦊 I’m currently learning **Kotlin & Cobol**
 
