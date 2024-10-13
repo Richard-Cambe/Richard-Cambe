@@ -10,9 +10,9 @@
   
   🚀 I’m currently working on **a TTRPG App**
   
-  🦊 I’m currently learning **Kotlin & Cobol**
+  🦊 I’m currently learning **Kotlin & Cobol** and am a Look'n Feel enjoyer
 
-  ⚡ Fun fact **Dungeons&Dragons players aren't as weird as you may think**
+  ⚡ Fun fact **Dungeons&Dragons players aren't as weird as you may thin**
   
 </div>
 <br/>
