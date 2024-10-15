@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=300&color=E66D20&center=true&random=false&width=435&lines=Hi+there+!+;I'm+Richard+Cambe" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=200&color=E66D20&center=true&random=false&width=435&lines=Hi+there+!+;I'm+Richard+Cambe" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center"> A passionate Fullstack Developper from France</h3>
