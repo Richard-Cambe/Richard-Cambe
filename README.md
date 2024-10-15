@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&pause=300&color=E66D20&center=true&random=false&width=435&lines=Hi+there+!+;I'm+Richard+Cambe" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=300&color=E66D20&center=true&random=false&width=435&lines=Hi+there+!+;I'm+Richard+Cambe" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center"> A passionate Fullstack Developper from France</h3>
@@ -38,8 +38,6 @@
 </div>
 
 <br/>
-
-Most of the repos you'll find there aren't finished projects, i'm working on them.<br/>
 <!---
 Richard-Cambe/Richard-Cambe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
