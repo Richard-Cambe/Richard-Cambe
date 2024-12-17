@@ -12,7 +12,7 @@
   
   🦊 I’m currently learning **Kotlin & Cobol** and am a Look'n Feel enjoyer
 
-  ⚡ Fun fact **Dungeons&Dragons players aren't as weird as you may thin**
+  ⚡ Fun fact **Dungeons&Dragons players aren't as weird as you may think**
   
 </div>
 <br/>
